@@ -1,0 +1,25 @@
+﻿<src:GenericKeypad x:Class="Keypad.RegisterKeypad"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             xmlns:src="clr-namespace:Keypad"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Button Content="1" Height="64" HorizontalAlignment="Left" Margin="12,152,0,0" Name="btn1" VerticalAlignment="Top" Width="64" Click="btn1_Click" />
+        <Button Content="2" Height="64" HorizontalAlignment="Left" Margin="82,152,0,0" Name="btn2" VerticalAlignment="Top" Width="64" Click="btn2_Click" />
+        <Button Content="3" Height="64" HorizontalAlignment="Left" Margin="152,152,0,0" Name="btn3" VerticalAlignment="Top" Width="64" Click="btn3_Click" />
+        <Button Content="4" Height="64" HorizontalAlignment="Left" Margin="12,82,0,0" Name="btn4" VerticalAlignment="Top" Width="64" Click="btn4_Click" />
+        <Button Content="5" Height="64" HorizontalAlignment="Left" Margin="82,80,0,0" Name="btn5" VerticalAlignment="Top" Width="64" Click="btn5_Click" />
+        <Button Content="6" Height="64" HorizontalAlignment="Left" Margin="152,80,0,0" Name="btn6" VerticalAlignment="Top" Width="64" Click="button6_Click" />
+        <Button Content="7" Height="64" HorizontalAlignment="Left" Margin="12,12,0,0" Name="btn7" VerticalAlignment="Top" Width="64" Click="btn7_Click" />
+        <Button Content="8" Height="64" HorizontalAlignment="Left" Margin="82,12,0,0" Name="btn8" VerticalAlignment="Top" Width="64" Click="btn8_Click" />
+        <Button Content="9" Height="64" HorizontalAlignment="Left" Margin="152,12,0,0" Name="btn9" VerticalAlignment="Top" Width="64" Click="btn9_Click" />
+        <Button Content="0" Height="64" HorizontalAlignment="Left" Margin="152,224,0,0" Name="btn0" VerticalAlignment="Top" Width="64" Click="btn0_Click" />
+        <Button Content="00" Height="64" HorizontalAlignment="Left" Margin="12,224,0,0" Name="btn00" VerticalAlignment="Top" Width="134" Click="btn00_Click" />
+        <Button Content="Enter" Height="136" HorizontalAlignment="Left" Margin="224,0,0,12" Name="btnEnter" VerticalAlignment="Bottom" Width="64" Click="btnEnter_Click" />
+        <Button Content="+" Height="64" HorizontalAlignment="Left" Margin="224,82,0,0" Name="btnPlus" VerticalAlignment="Top" Width="64" Click="btnPlus_Click" />
+        <Button Content="-" Height="64" HorizontalAlignment="Left" Margin="224,12,0,0" Name="btnMinus" VerticalAlignment="Top" Width="64" Click="btnMinus_Click" />
+    </Grid>
+</src:GenericKeypad>

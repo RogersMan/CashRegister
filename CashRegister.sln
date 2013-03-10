@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashRegister", "CashRegister\CashRegister.csproj", "{56F7D649-6C65-4168-9759-437563F9E58C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Display", "Display\Display.csproj", "{93D48B12-6D0D-45EB-AB9F-3DCC7E62EA44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keypad", "Keypad\Keypad.csproj", "{F6E85873-6F65-4825-9F7A-5E0B39452E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56F7D649-6C65-4168-9759-437563F9E58C}.Debug|x86.ActiveCfg = Debug|x86
+		{56F7D649-6C65-4168-9759-437563F9E58C}.Debug|x86.Build.0 = Debug|x86
+		{56F7D649-6C65-4168-9759-437563F9E58C}.Release|x86.ActiveCfg = Release|x86
+		{56F7D649-6C65-4168-9759-437563F9E58C}.Release|x86.Build.0 = Release|x86
+		{93D48B12-6D0D-45EB-AB9F-3DCC7E62EA44}.Debug|x86.ActiveCfg = Debug|x86
+		{93D48B12-6D0D-45EB-AB9F-3DCC7E62EA44}.Debug|x86.Build.0 = Debug|x86
+		{93D48B12-6D0D-45EB-AB9F-3DCC7E62EA44}.Release|x86.ActiveCfg = Release|x86
+		{93D48B12-6D0D-45EB-AB9F-3DCC7E62EA44}.Release|x86.Build.0 = Release|x86
+		{F6E85873-6F65-4825-9F7A-5E0B39452E2B}.Debug|x86.ActiveCfg = Debug|x86
+		{F6E85873-6F65-4825-9F7A-5E0B39452E2B}.Debug|x86.Build.0 = Debug|x86
+		{F6E85873-6F65-4825-9F7A-5E0B39452E2B}.Release|x86.ActiveCfg = Release|x86
+		{F6E85873-6F65-4825-9F7A-5E0B39452E2B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

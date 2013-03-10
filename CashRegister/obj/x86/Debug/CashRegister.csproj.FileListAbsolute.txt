@@ -1,0 +1,17 @@
+C:\Users\Haoyan\Documents\GitHub\CashRegister\CashRegister\bin\Debug\CashRegister.exe.config
+C:\Users\Haoyan\Documents\GitHub\CashRegister\CashRegister\bin\Debug\CashRegister.exe
+C:\Users\Haoyan\Documents\GitHub\CashRegister\CashRegister\bin\Debug\CashRegister.pdb
+C:\Users\Haoyan\Documents\GitHub\CashRegister\CashRegister\obj\x86\Debug\MainWindow.baml
+C:\Users\Haoyan\Documents\GitHub\CashRegister\CashRegister\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Haoyan\Documents\GitHub\CashRegister\CashRegister\obj\x86\Debug\App.g.cs
+C:\Users\Haoyan\Documents\GitHub\CashRegister\CashRegister\obj\x86\Debug\CashRegister_MarkupCompile.cache
+C:\Users\Haoyan\Documents\GitHub\CashRegister\CashRegister\obj\x86\Debug\CashRegister.g.resources
+C:\Users\Haoyan\Documents\GitHub\CashRegister\CashRegister\obj\x86\Debug\CashRegister.Properties.Resources.resources
+C:\Users\Haoyan\Documents\GitHub\CashRegister\CashRegister\obj\x86\Debug\CashRegister.csproj.GenerateResource.Cache
+C:\Users\Haoyan\Documents\GitHub\CashRegister\CashRegister\obj\x86\Debug\CashRegister.exe
+C:\Users\Haoyan\Documents\GitHub\CashRegister\CashRegister\obj\x86\Debug\CashRegister.pdb
+C:\Users\Haoyan\Documents\GitHub\CashRegister\CashRegister\bin\Debug\Keypad.dll
+C:\Users\Haoyan\Documents\GitHub\CashRegister\CashRegister\bin\Debug\Keypad.pdb
+C:\Users\Haoyan\Documents\GitHub\CashRegister\CashRegister\obj\x86\Debug\CashRegister.csprojResolveAssemblyReference.cache
+C:\Users\Haoyan\Documents\GitHub\CashRegister\CashRegister\bin\Debug\Display.dll
+C:\Users\Haoyan\Documents\GitHub\CashRegister\CashRegister\bin\Debug\Display.pdb

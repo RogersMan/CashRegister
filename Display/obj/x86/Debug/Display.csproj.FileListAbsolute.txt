@@ -1,0 +1,12 @@
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Display\obj\x86\Debug\Display.Properties.Resources.resources
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Display\obj\x86\Debug\Display.csproj.GenerateResource.Cache
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Display\bin\Debug\Display.dll
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Display\bin\Debug\Display.pdb
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Display\obj\x86\Debug\Display_MarkupCompile.cache
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Display\obj\x86\Debug\Display.g.resources
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Display\obj\x86\Debug\Display.dll
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Display\obj\x86\Debug\Display.pdb
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Display\obj\x86\Debug\SimpleDisplay.g.cs
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Display\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Display\obj\x86\Debug\Display_MarkupCompile.lref
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Display\obj\x86\Debug\SimpleDisplay.baml

@@ -1,0 +1,13 @@
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Keypad\obj\x86\Debug\RegisterKeypad.baml
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Keypad\obj\x86\Debug\RegisterKeypad.g.cs
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Keypad\obj\x86\Debug\Keypad_MarkupCompile.cache
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Keypad\obj\x86\Debug\Keypad.g.resources
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Keypad\obj\x86\Debug\Keypad.Properties.Resources.resources
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Keypad\obj\x86\Debug\Keypad.csproj.GenerateResource.Cache
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Keypad\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Keypad\obj\x86\Debug\Keypad_MarkupCompile.lref
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Keypad\obj\x86\Debug\Keypad.dll
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Keypad\obj\x86\Debug\Keypad.pdb
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Keypad\bin\Debug\Keypad.dll.config
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Keypad\bin\Debug\Keypad.dll
+C:\Users\Haoyan\Documents\GitHub\CashRegister\Keypad\bin\Debug\Keypad.pdb
